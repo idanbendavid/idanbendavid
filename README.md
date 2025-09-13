@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idanbendavid
-- 🌱 I’m a junior full stack developer
+- 🌱 I’m a Technical Support engineer with passion for web development
 - 📫 Contect me at idanbendavid10@hotmail.com or at https://www.linkedin.com/in/idan-ben-david-966861229/
 
 <!---
